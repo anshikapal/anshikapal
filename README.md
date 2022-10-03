@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshikapal
+👋 Hi, I’m @anshikapal
 
 
 <!---
